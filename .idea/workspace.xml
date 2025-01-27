@@ -5,26 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d4573f43-ad60-44f9-b81d-05c2ab8ccc9c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jxwebs/security/Config/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jxwebs/security/Config/SecurityConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/jxwebs/security/Filter/JwtAuthenticationFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jxwebs/security/Filter/JwtAuthenticationFilter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jxwebs/security/Comment/DatetimeConverter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jxwebs/security/Comment/DatetimeConverter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jxwebs/security/Comment/JsonWebTokenUtility.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jxwebs/security/Comment/JsonWebTokenUtility.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jxwebs/security/Config/SecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jxwebs/security/Config/SecurityConfig.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/jxwebs/security/Config/UserDetailsServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jxwebs/security/Config/UserDetailsServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jxwebs/security/Controller/TestController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jxwebs/security/Controller/TestController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jxwebs/security/Controller/UsersController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jxwebs/security/Controller/UsersController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jxwebs/security/DTO/LoginResponseDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jxwebs/security/DTO/LoginResponseDTO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jxwebs/security/Entity/UsersEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jxwebs/security/Entity/UsersEntity.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/jxwebs/security/Filter/JwtAuthenticationFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jxwebs/security/Filter/JwtAuthenticationFilter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jxwebs/security/Filter/JwtAuthorizationFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jxwebs/security/Filter/JwtAuthorizationFilter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jxwebs/security/Repository/UsersRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jxwebs/security/Repository/UsersRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jxwebs/security/SecurityApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jxwebs/security/SecurityApplication.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,16 +33,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.SecurityApplication.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "settings.editor.selected.configurable": "File.Encoding"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.SecurityApplication.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
