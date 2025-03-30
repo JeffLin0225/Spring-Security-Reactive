@@ -38,6 +38,7 @@ public class SecurityConfig {
         return http
                 .csrf(ServerHttpSecurity.CsrfSpec::disable)
                 .formLogin(ServerHttpSecurity.FormLoginSpec::disable) // 禁用表單登入
+                .httpBasic(ServerHttpSecurity.HttpBasicSpec::disable)
                 .authorizeExchange(exchanges -> exchanges
                         .pathMatchers("/api/login","/adduser").permitAll()
                         .pathMatchers("/test").hasAnyAuthority("user","boss")
